@@ -1,7 +1,7 @@
 <?php
 	$Var = TRUE;
 
-	if $Var {
+	if $Var = FALSE {
 		echo "Hello, World!";
 	}
 
